@@ -1,8 +1,5 @@
 [![My GitHub Banner](./imgs/J_Loayza_Banner.png)]
 
-<!--
-**jloayza10/jloayza10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-loayza-ramirez/">
     <img src="https://img.shields.io/badge/jorge_loayza-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
