@@ -1,4 +1,4 @@
-[![My GitHub Banner](./imgs/J_Loayza_Banner.png)]
+![My GitHub Banner](./imgs/J_Loayza_Banner.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-loayza-ramirez/">
